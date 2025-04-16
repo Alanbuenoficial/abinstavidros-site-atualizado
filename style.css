@@ -1,0 +1,69 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    margin: 0;
+    color: #1e1e1e;
+}
+
+header {
+    background-color: #002f4b;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+header p {
+    margin-top: 0.5rem;
+    font-size: 1.2rem;
+}
+
+section {
+    padding: 2rem;
+}
+
+.servicos h2,
+.contato h2,
+.formulario h2 {
+    color: #006d77;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 1.5rem;
+}
+
+a {
+    color: #0077b6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.botao {
+    display: inline-block;
+    padding: 0.8rem 1.5rem;
+    background-color: #0077b6;
+    color: white;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.botao:hover {
+    background-color: #005f8d;
+}
+
+footer {
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+    color: #555;
+}
